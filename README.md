@@ -1,3 +1,1 @@
-# seckill-demo
-seckill
-12313
+# JavaFamily
